@@ -7,6 +7,7 @@ Below are the links, notes and thoughts to the most interesting papers, challeng
 * [CVPR 2018 Tutorials](http://cvpr2018.thecvf.com/program/tutorials)
 * [CVPR 2018 Workshops](http://cvpr2018.thecvf.com/program/workshops)
 
+NOTE: The categories and tags of the paper are very soft and often one paper can be in autonomous driving, 3D vision and graph based related categories but I select one that to my best knowledge suits better and will be easier for me to find it later.
 
 # Top Papers
 
@@ -39,7 +40,6 @@ Pritish Mohapatra, Michal Rolínek, C.V. Jawahar, Vladimir Kolmogorov, M. Pawan 
 Self driving cars was one of the most noticeable topic at the conference with huge booth's at the expo floor from nuTonomy, Aurora, Tesla, Waymo, Didi, Argo.ai, Baidu, Lyft, Uber, NVidia. Several workshops and challenges. Also it one that I'm personally most interested in though it get's the biggest chunk of my conference time.
 
 
-
 ## Challenges
 
 Challenges related to the autonomous driving at CVPR 2018:
@@ -52,6 +52,19 @@ Future autonomous driving challenges:
 * [Scene Understanding for Autonomous Navigation in Unstructured Environments](http://cvit.iiit.ac.in/autonue2018/), ECCV 2018
 * [ApolloScape: Vision-based Navigation for Autonomous Driving](http://apolloscape.auto/ECCV/challenge.html), ECCV 2018
 
+
+## Autonomous Driving Datasets
+
+Most mentioned datasets related to the self-driving car space:
+* [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
+* [ApolloScape Dataset](http://apolloscape.auto/)
+* [Berkeley DeepDrive (BDD100K)](https://deepdrive.berkeley.edu/)
+* [Oxford RobotCar Dataset](http://robotcar-dataset.robots.ox.ac.uk/)
+* [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
+* [HD1K Dataset](http://hci-benchmark.org/)
+* [WildDash Dataset](http://www.wilddash.cc/)
+* [DAVIS Driving Dataset](https://docs.google.com/document/d/1HM0CSmjO8nOpUeTvmPjopcBcVCk7KXvLUuiZFS6TWSg/pub), and other [datasets](http://sensors.ini.uzh.ch/databases.html) from INI Zurich
+* [TorontoCity Dataset](https://arxiv.org/abs/1612.00423) (didn't find a link to the dataset page)
 
 
 ## Workshops/Tutorials
@@ -139,6 +152,12 @@ Xinyu Huang, Xinjing Cheng, Qichuan Geng, Binbin Cao, Dingfu Zhou, Peng Wang, Yu
 * __DeLS-3D: Deep Localization and Segmentation With a 3D Semantic Map__. Peng Wang, Ruigang Yang, Binbin Cao, Wei Xu, Yuanqing Lin, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_DeLS-3D_Deep_Localization_CVPR_2018_paper.pdf)
 (_Baidu_)
 
+* __Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics__. Alex Kendall, Yarin Gal, Roberto Cipolla, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf)
+(_depth estimation_)
+
+* __Matching Adversarial Networks__. Gellért Máttyus, Raquel Urtasun, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mattyus_Matching_Adversarial_Networks_CVPR_2018_paper.pdf)
+(_segmentation_, _Uber_)
+
 
 ### 3D Reconstruction & 3D Vision
 
@@ -160,23 +179,8 @@ Xinyu Huang, Xinjing Cheng, Qichuan Geng, Binbin Cao, Dingfu Zhou, Peng Wang, Yu
 * __SurfConv: Bridging 3D and 2D Convolution for RGBD Images__. Hang Chu, Wei-Chiu Ma, Kaustav Kundu, Raquel Urtasun, Sanja Fidler, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chu_SurfConv_Bridging_3D_CVPR_2018_paper.pdf)
 (_3d segmentation_, _Uber_)
 
-
-> _TBD_ (work in progress)
-
-
-
-## Autonomous Driving Datasets
-
-Most mentioned datasets related to the self-driving car space:
-* [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
-* [ApolloScape Dataset](http://apolloscape.auto/)
-* [Berkeley DeepDrive (BDD100K)](https://deepdrive.berkeley.edu/)
-* [Oxford RobotCar Dataset](http://robotcar-dataset.robots.ox.ac.uk/)
-* [Cityscapes Dataset](https://www.cityscapes-dataset.com/)
-* [HD1K Dataset](http://hci-benchmark.org/)
-* [WildDash Dataset](http://www.wilddash.cc/)
-* [DAVIS Driving Dataset](https://docs.google.com/document/d/1HM0CSmjO8nOpUeTvmPjopcBcVCk7KXvLUuiZFS6TWSg/pub), and other [datasets](http://sensors.ini.uzh.ch/databases.html) from INI Zurich
-* [TorontoCity Dataset](https://arxiv.org/abs/1612.00423) (didn't find a link to the dataset page)
+* __PIXOR: Real-Time 3D Object Detection From Point Clouds__. Bin Yang, Wenjie Luo, Raquel Urtasun, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf)
+(_Uber_)
 
 
 
@@ -187,6 +191,9 @@ Context aware papers:
 
 * __Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos__. De-An Huang, Shyamal Buch, Lucio Dery, Animesh Garg, Li Fei-Fei, Juan Carlos Niebles, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf)
 (_Stanford_)
+
+* __Context Encoding for Semantic Segmentation__. Hang Zhang, Kristin Dana, Jianping Shi, Zhongyue Zhang, Xiaogang Wang, Ambrish Tyagi, Amit Agrawal, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
+(_Amazon_)
 
 Geometry awareness:
 * __Geometry-Aware Learning of Maps for Camera Localization__. Samarth Brahmbhatt, Jinwei Gu, Kihwan Kim, James Hays, Jan Kautz, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Brahmbhatt_Geometry-Aware_Learning_of_CVPR_2018_paper.pdf) [[project page]](http://research.nvidia.com/publication/2018-06_Geometry-Aware-Learning-of)
@@ -214,6 +221,10 @@ Geometry awareness:
 
 * __Beyond Holistic Object Recognition: Enriching Image Understanding With Part States__. Cewu Lu, Hao Su, Yonglu Li, Yongyi Lu, Li Yi, Chi-Keung Tang, Leonidas J. Guibas, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lu_Beyond_Holistic_Object_CVPR_2018_paper.pdf)
 
+* __Iterative Visual Reasoning Beyond Convolutions__. Xinlei Chen, Li-Jia Li, Li Fei-Fei, Abhinav Gupta, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Iterative_Visual_Reasoning_CVPR_2018_paper.pdf)
+[[code]](https://github.com/endernewton/iter-reason)
+(_Stanford_)
+
 
 
 # Networks Optimization, Learning, Inference
@@ -224,6 +235,23 @@ Geometry awareness:
 
 * __Low-Latency Video Semantic Segmentation__. Yule Li, Jianping Shi, Dahua Lin, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Low-Latency_Video_Semantic_CVPR_2018_paper.pdf)
 (_optimization_)
+
+* __Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions__. Bichen Wu, Alvin Wan, Xiangyu Yue, Peter Jin, Sicheng Zhao, Noah Golmant, Amir Gholaminejad, Joseph Gonzalez, Kurt Keutzer, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wu_Shift_A_Zero_CVPR_2018_paper.pdf)
+(_Berkeley_)
+
+* __NISP: Pruning Networks Using Neuron Importance Score Propagation__. Ruichi Yu, Ang Li, Chun-Fu Chen, Jui-Hsin Lai, Vlad I. Morariu, Xintong Han, Mingfei Gao, Ching-Yung Lin, Larry S. Davis, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_NISP_Pruning_Networks_CVPR_2018_paper.pdf)
+(_DeepMind_, _Adobe_)
+
+* __SBNet: Sparse Blocks Network for Fast Inference__. Mengye Ren, Andrei Pokrovsky, Bin Yang, Raquel Urtasun, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ren_SBNet_Sparse_Blocks_CVPR_2018_paper.pdf)
+(_Uber_)
+
+* __HydraNets: Specialized Dynamic Architectures for Efficient Inference__. Ravi Teja Mullapudi, William R. Mark, Noam Shazeer, Kayvon Fatahalian, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mullapudi_HydraNets_Specialized_Dynamic_CVPR_2018_paper.pdf)
+(_CMU_, _Google_, _Stanford_)
+
+* __A PID Controller Approach for Stochastic Optimization of Deep Networks__. Wangpeng An, Haoqian Wang, Qingyun Sun, Jun Xu, Qionghai Dai, Lei Zhang, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/An_A_PID_Controller_CVPR_2018_paper.pdf)
+
+* __Deep Spatio-Temporal Random Fields for Efficient Video Segmentation__. Siddhartha Chandra, Camille Couprie, Iasonas Kokkinos, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chandra_Deep_Spatio-Temporal_Random_CVPR_2018_paper.pdf)
+(_Facebook_)
 
 
 
@@ -244,9 +272,15 @@ Geometry awareness:
 * __Aperture Supervision for Monocular Depth Estimation__. Pratul P. Srinivasan, Rahul Garg, Neal Wadhwa, Ren Ng, Jonathan T. Barron, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Srinivasan_Aperture_Supervision_for_CVPR_2018_paper.pdf)
 (_Berkeley_, _Google_)
 
+* __Gibson Env: Real-World Perception for Embodied Agents__. Fei Xia, Amir R. Zamir, Zhiyang He, Alexander Sax, Jitendra Malik, Silvio Savarese, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xia_Gibson_Env_Real-World_CVPR_2018_paper.pdf)
+[[project page]](http://gibsonenv.stanford.edu/)
+(_depth estimation_, _multi task_, _Berkeley_, _Stanford_)
+
 
 
 # Human pose detection, tracking, re-identification
+
+Humans detection, segmentation, tracking, 3d reconstruction, re-localization and other topics around our body parts was a huge part of the CVPR 2018. Here I just mention a few references because I was more on autonomous, localization, SLAM ans robotics topics.
 
 * __Person Transfer GAN to Bridge Domain Gap for Person Re-Identification__. Longhui Wei, Shiliang Zhang, Wen Gao, Qi Tian, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)
 
@@ -255,11 +289,31 @@ Geometry awareness:
 * __PoseTrack: A Benchmark for Human Pose Estimation and Tracking__. Mykhaylo Andriluka, Umar Iqbal, Eldar Insafutdinov, Leonid Pishchulin, Anton Milan, Juergen Gall, Bernt Schiele, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andriluka_PoseTrack_A_Benchmark_CVPR_2018_paper.pdf) [[project page]](https://posetrack.net/)
 (_Google_, _Amazon_)
 
+* __DensePose: Dense Human Pose Estimation in the Wild__. Rıza Alp Güler, Natalia Neverova, Iasonas Kokkinos, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Guler_DensePose_Dense_Human_CVPR_2018_paper.pdf)
+(_Facebook_)
 
 
 # 3D Vision
 
 * __Recurrent Slice Networks for 3D Segmentation of Point Clouds__. Qiangui Huang, Weiyue Wang, Ulrich Neumann, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Recurrent_Slice_Networks_CVPR_2018_paper.pdf) [[source code]](https://github.com/qianguih/RSNet)
+
+* __Consensus Maximization for Semantic Region Correspondences__. Pablo Speciale, Danda P. Paudel, Martin R. Oswald, Hayko Riemenschneider, Luc Van Gool, Marc Pollefeys, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Speciale_Consensus_Maximization_for_CVPR_2018_paper.pdf)
+(_ETH_)
+
+* __Manifold Learning in Quotient Spaces__. Éloi Mehr, André Lieutier, Fernando Sanchez Bermudez, Vincent Guitteny, Nicolas Thome, Matthieu Cord, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mehr_Manifold_Learning_in_CVPR_2018_paper.pdf)
+
+* __3D Semantic Segmentation With Submanifold Sparse Convolutional Networks__. Benjamin Graham, Martin Engelcke, Laurens van der Maaten, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)
+(_Facebook_)
+
+
+
+# Localization, SLAM
+
+* __CVM-Net: Cross-View Matching Network for Image-Based Ground-to-Aerial Geo-Localization__. Sixing Hu, Mengdan Feng, Rang M. H. Nguyen, Gim Hee Lee, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_CVM-Net_Cross-View_Matching_CVPR_2018_paper.pdf)
+
+* __Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions__. Torsten Sattler, Will Maddern, Carl Toft, Akihiko Torii, Lars Hammarstrand, Erik Stenborg, Daniel Safari, Masatoshi Okutomi, Marc Pollefeys, Josef Sivic, Fredrik Kahl, Tomas Pajdla, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf)
+[[project page]](http://visuallocalization.net/)
+
 
 
 
@@ -309,3 +363,35 @@ Geometry awareness:
 (_Google_)
 
 * __MaskLab: Instance Segmentation by Refining Object Detection With Semantic and Direction Features__. Liang-Chieh Chen, Alexander Hermans, George Papandreou, Florian Schroff, Peng Wang, Hartwig Adam, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_MaskLab_Instance_Segmentation_CVPR_2018_paper.pdf)
+
+* __Squeeze-and-Excitation Networks__. Jie Hu, Li Shen, Gang Sun, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Squeeze-and-Excitation_Networks_CVPR_2018_paper.pdf)
+[[code]](https://github.com/hujie-frank/SENet)
+(_Momenta.ai_)
+
+* __InLoc: Indoor Visual Localization With Dense Matching and View Synthesis__. Hajime Taira, Masatoshi Okutomi, Torsten Sattler, Mircea Cimpoi, Marc Pollefeys, Josef Sivic, Tomas Pajdla, Akihiko Torii, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Taira_InLoc_Indoor_Visual_CVPR_2018_paper.pdf)
+(_ETH_, _Microsoft_)
+
+* __Low-Shot Learning From Imaginary Data__, Yu-Xiong Wang, Ross Girshick, Martial Hebert, Bharath Hariharan, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Low-Shot_Learning_From_CVPR_2018_paper.pdf)
+(_Facebook_)
+
+* __Discriminative Learning of Latent Features for Zero-Shot Recognition__. Yan Li, Junge Zhang, Jianguo Zhang, Kaiqi Huang, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Discriminative_Learning_of_CVPR_2018_paper.pdf)
+
+* __PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume__. Deqing Sun, Xiaodong Yang, Ming-Yu Liu, Jan Kautz, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_PWC-Net_CNNs_for_CVPR_2018_paper.pdf)
+(_robust vision winner_, _NVidia_)
+
+* __Feature Space Transfer for Data Augmentation__. Bo Liu, Xudong Wang, Mandar Dixit, Roland Kwitt, Nuno Vasconcelos, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_Feature_Space_Transfer_CVPR_2018_paper.pdf)
+(_Microsoft_)
+
+* __Detail-Preserving Pooling in Deep Networks__. Faraz Saeedan, Nicolas Weber, Michael Goesele, Stefan Roth, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Saeedan_Detail-Preserving_Pooling_in_CVPR_2018_paper.pdf)
+(_Oculus_)
+
+* __ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing__. Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_ST-GAN_Spatial_Transformer_CVPR_2018_paper.pdf)
+(_Adobe_, _Argo.ai_)
+
+* __Revisiting Deep Intrinsic Image Decompositions__. Qingnan Fan, Jiaolong Yang, Gang Hua, Baoquan Chen, David Wipf, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fan_Revisiting_Deep_Intrinsic_CVPR_2018_paper.pdf)
+(_Microsoft_)
+
+* __Accurate and Diverse Sampling of Sequences Based on a “Best of Many” Sample Objective__. Apratim Bhattacharyya, Bernt Schiele, Mario Fritz, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bhattacharyya_Accurate_and_Diverse_CVPR_2018_paper.pdf)
+
+* __ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes__, Yuhua Chen, Wen Li, Luc Van Gool, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.pdf)
+(_augmentation_, _ETH_)
