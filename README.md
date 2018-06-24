@@ -1,13 +1,13 @@
 # CVPR 2018 Notes
 
-Below are the links, notes and thoughts to the most interesting papers, challenges and workshops that came to me during the [CVPR 2018](http://cvpr2018.thecvf.com/) conference. Though, you probably may want to make your own notion of the progress in computer vision and pattern recognition by reviewing all 979 accepted papers and walk through the content of all 21 tutorials and 48 workshops:
+Below are the links, notes and thoughts about the most interesting papers, challenges and workshops that I came across during the [CVPR 2018](http://cvpr2018.thecvf.com/) conference. Though, you probably may want to form your own notion of the progress in computer vision and pattern recognition by reviewing all 979 accepted papers and walking through the content of all 21 tutorials and 48 workshops:
 
 * [CVPR 2018 Papers](http://openaccess.thecvf.com/CVPR2017.py)
 * [CVPR 2018 Workshops Papers](http://openaccess.thecvf.com/CVPR2018_workshops/menu.py)
 * [CVPR 2018 Tutorials](http://cvpr2018.thecvf.com/program/tutorials)
 * [CVPR 2018 Workshops](http://cvpr2018.thecvf.com/program/workshops)
 
-NOTE: The categories and tags of the paper are very soft and often one paper can be in autonomous driving, 3D vision and graph based related categories but I select one that to my best knowledge suits better and will be easier for me to find it later.
+NOTE: The categories and tags of the papers are very soft and often one paper can be in autonomous driving, 3D vision and graph-based related categories but I select one that to my best knowledge suits better and will be easier for me to find later.
 
 # Top Papers
 
@@ -37,7 +37,7 @@ Pritish Mohapatra, Michal Rolínek, C.V. Jawahar, Vladimir Kolmogorov, M. Pawan 
 
 # Autonomous Driving and related topics: Visual odometry, SLAM, Localization.
 
-Self driving cars was one of the most noticeable topic at the conference with huge booth's at the expo floor from nuTonomy, Aurora, Tesla, Waymo, Didi, Argo.ai, Baidu, Lyft, Uber, NVidia. Several workshops and challenges. Also it one that I'm personally most interested in though it get's the biggest chunk of my conference time.
+Self-driving cars were one of the most noticeable topics at the conference with huge booth's on the expo floor from nuTonomy, Aurora, Tesla, Waymo, Didi, Argo.ai, Baidu, Lyft, Uber, NVidia. There were several workshops and challenges. Also it's one that I'm personally most interested in though it get's the biggest chunk of my conference time.
 
 
 ## Autonomous Driving Challenges
