@@ -40,7 +40,7 @@ Pritish Mohapatra, Michal Rolínek, C.V. Jawahar, Vladimir Kolmogorov, M. Pawan 
 Self driving cars was one of the most noticeable topic at the conference with huge booth's at the expo floor from nuTonomy, Aurora, Tesla, Waymo, Didi, Argo.ai, Baidu, Lyft, Uber, NVidia. Several workshops and challenges. Also it one that I'm personally most interested in though it get's the biggest chunk of my conference time.
 
 
-## Challenges
+## Autonomous Driving Challenges
 
 Challenges related to the autonomous driving at CVPR 2018:
 
@@ -67,7 +67,7 @@ Most mentioned datasets related to the self-driving car space:
 * [TorontoCity Dataset](https://arxiv.org/abs/1612.00423) (didn't find a link to the dataset page)
 
 
-## Workshops/Tutorials
+## Autonomous driving related workshops/tutorials
 
 Mentioned workshops and tutorials cover the most frequent topics related to the self-driving car development space.
 
@@ -182,7 +182,7 @@ Xinyu Huang, Xinjing Cheng, Qichuan Geng, Binbin Cao, Dingfu Zhou, Peng Wang, Yu
 * __PIXOR: Real-Time 3D Object Detection From Point Clouds__. Bin Yang, Wenjie Luo, Raquel Urtasun, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.pdf)
 (_Uber_)
 
-
+Below are papers from other topics that are not always related to the autonomous driving.
 
 # Context/Geometry Awareness
 
