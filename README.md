@@ -2,7 +2,7 @@
 
 Below are the links, notes and thoughts about the most interesting papers, challenges and workshops that I came across during the [CVPR 2018](http://cvpr2018.thecvf.com/) conference. Though, you probably may want to form your own notion of the progress in computer vision and pattern recognition by reviewing all 979 accepted papers and walking through the content of all 21 tutorials and 48 workshops:
 
-* [CVPR 2018 Papers](http://openaccess.thecvf.com/CVPR2017.py)
+* [CVPR 2018 Papers](http://openaccess.thecvf.com/CVPR2018.py)
 * [CVPR 2018 Workshops Papers](http://openaccess.thecvf.com/CVPR2018_workshops/menu.py)
 * [CVPR 2018 Tutorials](http://cvpr2018.thecvf.com/program/tutorials)
 * [CVPR 2018 Workshops](http://cvpr2018.thecvf.com/program/workshops)
@@ -395,3 +395,5 @@ Humans detection, segmentation, tracking, 3d reconstruction, re-localization and
 
 * __ROAD: Reality Oriented Adaptation for Semantic Segmentation of Urban Scenes__, Yuhua Chen, Wen Li, Luc Van Gool, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_ROAD_Reality_Oriented_CVPR_2018_paper.pdf)
 (_augmentation_, _ETH_)
+
+* __DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks__. Orest Kupyn, Volodymyr Budzan, Mykola Mykhailych, Dmytro Mishkin, Jiří Matas, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.pdf)
