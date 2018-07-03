@@ -14,6 +14,7 @@ NOTE: The categories and tags of the papers are very soft and often one paper ca
 Best Paper Award:
 * __Taskonomy: Disentangling Task Transfer Learning.__ Amir R. Zamir, Alexander Sax, William Shen, Leonidas J. Guibas, Jitendra Malik, Silvio Savarese
 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf)
+[[project page]](http://taskonomy.stanford.edu/)
 
 Honorable Mentions:
 * __Deep Learning of Graph Matching__.
