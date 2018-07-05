@@ -186,6 +186,7 @@ Xinyu Huang, Xinjing Cheng, Qichuan Geng, Binbin Cao, Dingfu Zhou, Peng Wang, Yu
 
 Below are papers from other topics that are not always related to the autonomous driving.
 
+
 # Context/Geometry Awareness
 
 Context aware papers:
@@ -256,6 +257,9 @@ Geometry awareness:
 (_Facebook_)
 
 
+* __MobileNetV2: Inverted Residuals and Linear Bottlenecks__. Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf)
+(_Google_)
+
 
 # Computational Imaging
 
@@ -278,6 +282,9 @@ Geometry awareness:
 [[project page]](http://gibsonenv.stanford.edu/)
 (_depth estimation_, _multi task_, _Berkeley_, _Stanford_)
 
+* __Unsupervised Learning of Monocular Depth Estimation and Visual Odometry With Deep Feature Reconstruction__. Huangying Zhan, Ravi Garg, Chamara Saroj Weerasekera, Kejie Li, Harsh Agarwal, Ian Reid, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhan_Unsupervised_Learning_of_CVPR_2018_paper.pdf)
+[[code]](https://github.com/Huangying-Zhan/Depth-VO-Feat)
+(_localization_)
 
 
 # Human pose detection, tracking, re-identification
@@ -304,10 +311,20 @@ Humans detection, segmentation, tracking, 3d reconstruction, re-localization and
 
 * __Manifold Learning in Quotient Spaces__. Éloi Mehr, André Lieutier, Fernando Sanchez Bermudez, Vincent Guitteny, Nicolas Thome, Matthieu Cord, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mehr_Manifold_Learning_in_CVPR_2018_paper.pdf)
 
+* __ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans__. Angela Dai, Daniel Ritchie, Martin Bokeloh, Scott Reed, Jürgen Sturm, Matthias Nießner, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dai_ScanComplete_Large-Scale_Scene_CVPR_2018_paper.pdf)
+(_Stanford_, _Google_)
+
 * __3D Semantic Segmentation With Submanifold Sparse Convolutional Networks__. Benjamin Graham, Martin Engelcke, Laurens van der Maaten, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)
 (_Facebook_)
 
+* __Real-Time Seamless Single Shot 6D Object Pose Prediction__. Bugra Tekin, Sudipta N. Sinha, Pascal Fua, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tekin_Real-Time_Seamless_Single_CVPR_2018_paper.pdf)
+(_Microsoft_)
 
+* __3D Pose Estimation and 3D Model Retrieval for Objects in the Wild__. Alexander Grabner, Peter M. Roth, Vincent Lepetit, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Grabner_3D_Pose_Estimation_CVPR_2018_paper.pdf)
+
+
+* __VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection__. Yin Zhou, Oncel Tuzel, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf)
+(_Apple_)
 
 # Localization, SLAM
 
@@ -316,6 +333,14 @@ Humans detection, segmentation, tracking, 3d reconstruction, re-localization and
 * __Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions__. Torsten Sattler, Will Maddern, Carl Toft, Akihiko Torii, Lars Hammarstrand, Erik Stenborg, Daniel Safari, Masatoshi Okutomi, Marc Pollefeys, Josef Sivic, Fredrik Kahl, Tomas Pajdla, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf)
 [[project page]](http://visuallocalization.net/)
 
+* __Semantic Visual Localization__. Johannes L. Schönberger, Marc Pollefeys, Andreas Geiger, Torsten Sattler, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Schonberger_Semantic_Visual_Localization_CVPR_2018_paper.pdf)
+(_ETH_)
+
+
+# Domain adaptation
+
+* __Domain Adaptive Faster R-CNN for Object Detection in the Wild__. Yuhua Chen, Wen Li, Christos Sakaridis, Dengxin Dai, Luc Van Gool, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Domain_Adaptive_Faster_CVPR_2018_paper.pdf)
+(_ETH_)
 
 
 
@@ -347,8 +372,6 @@ Humans detection, segmentation, tracking, 3d reconstruction, re-localization and
 
 * __Occlusion Aware Unsupervised Learning of Optical Flow__. Yang Wang, Yi Yang, Zhenheng Yang, Liang Zhao, Peng Wang, Wei Xu, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Occlusion_Aware_Unsupervised_CVPR_2018_paper.pdf)
 
-* __ScanComplete: Large-Scale Scene Completion and Semantic Segmentation for 3D Scans__. Angela Dai, Daniel Ritchie, Martin Bokeloh, Scott Reed, Jürgen Sturm, Matthias Nießner, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Dai_ScanComplete_Large-Scale_Scene_CVPR_2018_paper.pdf)
-(_Stanford_, _Google_)
 
 * __Adversarial Feature Augmentation for Unsupervised Domain Adaptation__. Riccardo Volpi, Pietro Morerio, Silvio Savarese, Vittorio Murino, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Volpi_Adversarial_Feature_Augmentation_CVPR_2018_paper.pdf)
 (_GAN_)
@@ -399,3 +422,6 @@ Humans detection, segmentation, tracking, 3d reconstruction, re-localization and
 (_augmentation_, _ETH_)
 
 * __DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks__. Orest Kupyn, Volodymyr Budzan, Mykola Mykhailych, Dmytro Mishkin, Jiří Matas, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Kupyn_DeblurGAN_Blind_Motion_CVPR_2018_paper.pdf) [[code]](https://github.com/KupynOrest/DeblurGAN)
+
+* __A Perceptual Measure for Deep Single Image Camera Calibration__. Yannick Hold-Geoffroy, Kalyan Sunkavalli, Jonathan Eisenmann, Matthew Fisher, Emiliano Gambaretto, Sunil Hadap, Jean-François Lalonde, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hold-Geoffroy_A_Perceptual_Measure_CVPR_2018_paper.pdf)
+(_360 imaging_)
