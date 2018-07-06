@@ -261,6 +261,8 @@ Geometry awareness:
 (_Google_)
 
 
+* __Latent RANSAC__. Simon Korman, Roee Litman, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Korman_Latent_RANSAC_CVPR_2018_paper.pdf)
+
 # Computational Imaging
 
 * __Burst Denoising With Kernel Prediction Networks__. Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll, [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Mildenhall_Burst_Denoising_With_CVPR_2018_paper.pdf) (_Google_)
